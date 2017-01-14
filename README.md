@@ -1,1 +1,1 @@
-# coinhunt
+# node-es6-mocha
